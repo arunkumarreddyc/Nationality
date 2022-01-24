@@ -1,12 +1,12 @@
- /* Importing font from google fonts */
- @import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+/* Importing font from google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Dongle&display=swap");
 
- *{
-    font-family: 'Dongle', sans-serif;
-   
- }
+* {
+  font-family: "Dongle", sans-serif;
+}
+
+body {
+  background-color: #edf5e1;
+}
 
 
- body{
-    background-color: #EDF5E1;
- }
