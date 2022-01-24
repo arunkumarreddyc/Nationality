@@ -22,7 +22,7 @@ let result = document.getElementsByClassName("result")[0];
 
 result.innerHTML = `<p class='mt-2'>TO KNOW THE NATIONALITY, ENTER THE NAME OF THE PERSON</p>`;
 
-// on clicking the search button or pressing enter we should get the response 
+// on clicking the search button we should get the response 
 button.addEventListener("click", getdata);
 // using the enter key for getting the response
 searchbar.addEventListener("keyup", function(event) {
